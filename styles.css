@@ -1,0 +1,31 @@
+#menu {
+    width: 550px;
+    height: 35px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center; 
+    background-color: red;
+        border-radius: 8px;
+}
+
+#menu ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+
+#menu li { 
+display: inline; 
+padding: 20px; 
+}
+
+#menu a {
+    text-decoration: none;
+    color: Black;
+    padding: 8px 8px 8px 8px;
+}
+
+#menu a:hover {
+    color: red;
+    background-color: black;
+}
